@@ -11,3 +11,5 @@
 `http://zipcloud.ibsnet.co.jp/api/search`
 
 にリクエストを行い、入力した郵便番号に応じた地域名が、標準出力とresponse.jsonに出力される
+
+このアプリでは、[郵便番号検索API - zipcloud](http://zipcloud.ibsnet.co.jp/doc/api)を利用しています。
